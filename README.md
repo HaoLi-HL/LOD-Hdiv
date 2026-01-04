@@ -56,11 +56,3 @@ If you use this code in academic work, please cite the paper:
   year    = {2025}
 }
 ```
-
-## Contributing
-
-Issues and pull requests are welcome. Please include:
-
-- a short description of the problem you are solving,
-- the command used to reproduce results,
-- relevant output files or error messages.
